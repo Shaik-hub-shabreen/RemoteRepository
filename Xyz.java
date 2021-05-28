@@ -4,4 +4,8 @@ public class Xyz
 	{
 		System.out.println("From Xyz class");
 	}
+	public void shab()
+	{
+		System.out.println("From Xyz class");
+	}
 }
